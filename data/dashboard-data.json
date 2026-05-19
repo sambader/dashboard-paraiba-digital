@@ -1,7 +1,5 @@
 {
-  "_info": "Arquivo de dados do Dashboard Paraíba Digital 120 Dias",
-  "_instrucoes": "Este arquivo é gerado e atualizado automaticamente ao carregar o .xlsx no dashboard.",
-  "refDate": null,
+  "refDate": "18/05/2026",
   "orgCount": 0,
   "orgImplant": 0,
   "procCount": 0,
@@ -18,9 +16,27 @@
   "riskCounts": {},
   "procStatusCounts": {},
   "priCounts": {},
-  "orgStatusColors": {},
-  "riskColors": {},
-  "priColors": {},
+  "orgStatusColors": {
+    "não iniciado": "#ccc",
+    "em diagnóstico": "#1B4F8A",
+    "em mapeamento": "#00A896",
+    "em parametrização": "#F5A623",
+    "em homologação": "#38A169",
+    "em produção": "#155724",
+    "suspenso": "#E53E3E",
+    "concluído": "#0A3D0A"
+  },
+  "riskColors": {
+    "crítico": "#C00",
+    "alto": "#DD6B20",
+    "médio": "#F5A623",
+    "baixo": "#38A169"
+  },
+  "priColors": {
+    "alta": "#0A2F6B",
+    "média": "#1B4F8A",
+    "baixa": "#AAB8C8"
+  },
   "pendItems": [],
-  "savedAt": null
+  "savedAt": "18/05/2026, 23:57:04"
 }
