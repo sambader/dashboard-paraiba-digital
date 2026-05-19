@@ -1,12 +1,12 @@
 {
   "refDate": "18/05/2026",
-  "orgCount": 3,
-  "orgImplant": 2,
+  "orgCount": 4,
+  "orgImplant": 3,
   "procCount": 4,
   "procProd": 0,
   "intPend": 1,
   "riscCrit": 1,
-  "decAG": 5,
+  "decAG": 6,
   "avgProg": 21,
   "orgaos": [
     {
@@ -46,6 +46,25 @@
       "Risco geral": "Alto",
       "Necessita decisão alta gestão?": "Sim",
       "Observações": "Aguardando priorização e agenda."
+    },
+    {
+      "ID": 3,
+      "Órgão/Secretaria": "Secretaria/Órgão 03",
+      "Responsável no órgão": "A definir",
+      "Responsável GEPRON": "GEPRON",
+      "Responsável GESED": "GESED",
+      "Status": "Em mapeamento",
+      "Maturidade": "Alta",
+      "Prioridade": "Alta",
+      "Data início": 46160,
+      "Prazo": 46205,
+      "Data conclusão": "",
+      "% Avanço": 0.375,
+      "Nº processos priorizados": 2,
+      "Nº processos em produção": 0,
+      "Risco geral": "Crítico",
+      "Necessita decisão alta gestão?": "Sim",
+      "Observações": "Possui processos com boa aderência inicial ao Digitize."
     },
     {
       "ID": 3,
@@ -276,7 +295,7 @@
   "orgStatusCounts": {
     "Em diagnóstico": 1,
     "Não iniciado": 1,
-    "Em mapeamento": 1
+    "Em mapeamento": 2
   },
   "riskCounts": {
     "Crítico": 1,
@@ -359,7 +378,16 @@
       "status": "Em mapeamento",
       "obs": "Possui processos com boa aderência inicial ao Digitize.",
       "origem": "Órgão"
+    },
+    {
+      "titulo": "Decisão sobre Secretaria/Órgão 03",
+      "orgao": "Secretaria/Órgão 03",
+      "resp": "GEPRON",
+      "nivel": "Crítico",
+      "status": "Em mapeamento",
+      "obs": "Possui processos com boa aderência inicial ao Digitize.",
+      "origem": "Órgão"
     }
   ],
-  "savedAt": "19/05/2026, 12:35:53"
+  "savedAt": "19/05/2026, 12:36:27"
 }
